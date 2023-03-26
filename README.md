@@ -15,7 +15,7 @@ Sample input files are provided. Files beginning with `k` are example keys, whil
 Once you have your input file ready, you can run the following commands to begin the program:
 
 ```
-gcc vigenere.c -o ./vigenere
+gcc Vigenere.c -o ./vigenere
 ./vigenere kX.txt pX.txt
 ```
 
